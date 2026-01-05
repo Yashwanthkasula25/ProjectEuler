@@ -10,7 +10,7 @@ while len(primee) < 10001:
     else :    
         primee.append(i)   
     i += 1                
-print(primee[-1])    
+print(f"the 10001st prime number is {primee[-1]}")    
 
 
 
